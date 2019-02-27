@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Results
 
-You can use the [editor on GitHub](https://github.com/AgostinaL/Corner-detector-project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In this page it os posible to observe the results of the different instances of the corner tracker. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Cascade convolutional neural networks
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
