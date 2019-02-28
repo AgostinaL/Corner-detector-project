@@ -1,16 +1,14 @@
 ## Results
 
-In this page it os posible to observe the results of the different instances of the corner tracker. 
+Qualitative results for difficult validation videos can be observed in the following videos.
 
 ### Cascade convolutional neural networks
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kgy2Agji7BM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ip05H-lcShE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Filter applied after the Cascade convolutional neural networks
 
-
-```markdown
-Syntax highlighted code block
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lDzQA6n5HLY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Header 1
 ## Header 2
