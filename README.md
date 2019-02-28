@@ -1,6 +1,6 @@
 ## Results
 
-Qualitative results for difficult validation videos can be observed in the following videos.
+Qualitative results for different validation videos.
 
 ### Cascade convolutional neural networks
 
